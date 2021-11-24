@@ -20,7 +20,12 @@ organizations:
 bio: 
 
 interests:
-- 
+- Neuroimaging
+- Neuroscience
+- Dementia
+- Neurodegeneration
+- Dementia with Lewy Bodies
+- Neuropsychiatry
 
 education:
   courses:
