@@ -29,13 +29,18 @@ interests:
 
 education:
   courses:
-  - course:MSc in Mental Health Sciences
-    institution:UCL
-    year:2018
-  - course:
-    institution: 
-    year: 
-
+  - course: MSc in Mental Health Sciences
+    institution: UCL
+    year: 2018
+  - course: MRCP (UK)
+    institution: Royal College of Physicians (UK)
+    year: 2017
+  - course: MRCPsych (UK)
+    institution: Royal College of Psychiatrists (UK)
+    year: 2016
+  - course: MBBS
+    institution: UCL
+    year: 2012  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
