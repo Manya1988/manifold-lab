@@ -17,7 +17,7 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Rohan Bhome is a consultant old age psychiatrist with a clinical and research interest in the neuropsychiatric symptoms of neurodegenerative disorders, which cause significant morbidity but are poorly understood and difficult to treat. Jointly based at the Dementia Research Centre (DRC) and Centre for Medical Image Computing (CMIC), and co-supervised by James Cole and Rimona Weil, his PhD, funded by the Wolfson foundation and Eisai, aims to investigate the neural mechanisms in Dementia with Lewy bodies (DLB) using advanced neuroimaging techniques including Quantitative Susceptibility Mapping, Fixel Based Analysis and Normative modelling. He hopes to identify novel neuroimaging biomarkers that could potentially enhance future clinical trials in DLB by improving stratification and monitoring of response to treatment.
 
 interests:
 - Neuroimaging
@@ -73,5 +73,4 @@ user_groups:
 - PhD Students
 ---
 
-# Biography
 Rohan Bhome is a consultant old age psychiatrist with a clinical and research interest in the neuropsychiatric symptoms of neurodegenerative disorders, which cause significant morbidity but are poorly understood and difficult to treat. Jointly based at the Dementia Research Centre (DRC) and Centre for Medical Image Computing (CMIC), and co-supervised by James Cole and Rimona Weil, his PhD, funded by the Wolfson foundation and Eisai, aims to investigate the neural mechanisms in Dementia with Lewy bodies (DLB) using advanced neuroimaging techniques including Quantitative Susceptibility Mapping, Fixel Based Analysis and Normative modelling. He hopes to identify novel neuroimaging biomarkers that could potentially enhance future clinical trials in DLB by improving stratification and monitoring of response to treatment.
